@@ -1,0 +1,3 @@
+/home/rizo/edu/ssad/ls2/cmake-build-debug/CMakeFiles/ls2.dir
+/home/rizo/edu/ssad/ls2/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/rizo/edu/ssad/ls2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
