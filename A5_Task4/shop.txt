@@ -1,0 +1,19 @@
+apples, 7
+lemon, 5
+cucumber, 10
+tomato, 23
+chicken, 4
+beef, 2
+milk, 8
+cheese, 6
+butter, 3
+bread, 5
+baguette, 1
+flour, 2
+sugar, 10
+water, 29
+chocolate, 7
+tea, 19
+coffee, 19
+ice creame, 1
+chewing gum, 6
